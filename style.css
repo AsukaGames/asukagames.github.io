@@ -1,11 +1,17 @@
 html {
 	text-align: center;
+	background-color: palevioletred;
+	font-family : verdana;
 }
 ul {
     list-style-position: inside;
 }
+
 body {
   background-color: seashell;
+}
+header {
+  background-color: palevioletred;
 }
 h2{
   color: palevioletred;
