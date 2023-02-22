@@ -1,0 +1,12 @@
+html {
+	text-align: center;
+}
+ul {
+    list-style-position: inside;
+}
+body {
+  background-color: seashell;
+}
+h2{
+  color: palevioletred;
+}
